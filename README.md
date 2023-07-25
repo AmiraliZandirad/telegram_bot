@@ -1,2 +1,9 @@
-# telegram_bot
-A simple bot for Telegram
+# Bot Remover
+
+Please note that the user is responsible for using this robot. To use this, you must have a selenium module installed.
+
+## Installation
+
+```bash
+pip install telegram
+```
