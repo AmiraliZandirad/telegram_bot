@@ -1,4 +1,4 @@
-# AmiraliZandirad1
+
 import telegram
 from telegram.ext import Updater, CommandHandler, MessageHandler, filters
 
